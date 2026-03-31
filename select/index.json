@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "base_track": "少年少女",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2026-03-31T07:05:30.453454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少年少女",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_少年少女_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少年少女",
+      "artist": "GING NANG BOYZ",
+      "has_synced": true,
+      "path": "select/02_少年少女_GING_NANG_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少年少女",
+      "artist": "銀杏BOYZ",
+      "has_synced": true,
+      "path": "select/03_少年少女_銀杏BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少年少女 - Boy Meets Girl",
+      "artist": "GING NANG BOYZ",
+      "has_synced": true,
+      "path": "select/04_少年少女_-_Boy_Meets_Girl_GING_NANG_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "少年少女",
+      "artist": "Jagatara",
+      "has_synced": false,
+      "path": "select/05_少年少女_Jagatara.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "少年少女 TV Ver.",
+      "artist": "銀杏BOYZ",
+      "has_synced": true,
+      "path": "select/06_少年少女_TV_Ver._銀杏BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "少年少女",
+      "artist": "Miliyah",
+      "has_synced": true,
+      "path": "select/07_少年少女_Miliyah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少年少女",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_少年少女_カンザキイオリ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "少年少女",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/localdb_01_少年少女_カンザキイオリ.lrc",
+      "repo_name": "UHR_OPr1BQ0"
+    }
+  ]
+}
